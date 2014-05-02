@@ -5,6 +5,8 @@ import android.app.Activity;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
+	
+	//I want to fuck Alex Moonwalker in the ass
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
